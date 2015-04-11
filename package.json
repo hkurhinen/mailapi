@@ -1,0 +1,16 @@
+{
+  "name": "vowser",
+  "version": "0.0.0",
+  "description": "vowser",
+  "main": "app.js",
+  "author": {
+    "name": "Belvain",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "*",
+    "nodemailer": "*",
+    "body-parser": "*",
+    "nodemailer-mailgun-transport":  "*"
+  }
+}

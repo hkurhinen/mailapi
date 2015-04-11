@@ -1,0 +1,11 @@
+﻿var mailerConf = {
+  sender: '',
+  auth: {
+    auth: {
+      api_key: '',
+      domain: ''
+    }
+  }
+};
+
+module.exports = mailerConf;
